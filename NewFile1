@@ -1,0 +1,3 @@
+SELECT new FROM newFile
+WHERE new1 = latest539
+ORDER BY count
